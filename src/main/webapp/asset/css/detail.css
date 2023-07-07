@@ -1,0 +1,148 @@
+
+.right-detail{
+    width: 442px !important;
+
+}
+
+.left-detail{
+    width: 673px !important;
+}
+
+.accordion-btn {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+    transition: transform 0.2s ease-in-out;
+}
+
+.accordion-btn:not(.collapsed)::after {
+    background-image:url(https://www.svgrepo.com/download/80156/down-arrow.svg);
+    transform: rotate(-180deg);
+}
+
+.accordion-btn::after {
+    flex-shrink: 0;
+    width: 1.25rem;
+    height: 1.25rem;
+    margin-left: auto;
+    content: "";
+    background-image: url(https://www.svgrepo.com/download/80156/down-arrow.svg);
+    background-repeat: no-repeat;
+    background-size: 1.25rem;
+    transition: transform 0.2s ease-in-out;
+}
+
+.product-detail-policy{
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 16px 20px;
+    font-size: 1rem;
+    text-align: left;
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+}
+
+.product-detail-policy::after{
+    height: 1.25rem;
+    width: 1.25rem;
+    margin-left: auto;
+    content: "";
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/1200px-Antu_arrow-right.svg.png);
+    background-repeat: no-repeat;
+    background-size: 1.25rem;
+}
+
+.product-color_list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 8px;
+}
+
+.product-size_list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 8px;
+}
+
+
+.product-color_img{
+    width:50px;
+    margin: 0px 5px 8px;
+}
+
+.product-size_item{
+    width:50px;
+    height:50px;
+    margin: 0px 5px 8px;
+    border: 1px solid #b9b9b9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.product-size_item:hover{
+    border: 1px solid #000;
+    background-color: #281919;
+    color: #fff;
+    border-color: transparent;
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px #1f1a1a;
+}
+
+.product-color_img:hover{
+    border: 1px solid #000;
+    background-color: #281919;
+    border-color: transparent;
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px #1f1a1a;
+}
+
+.product-btn:hover{
+    opacity: 0.6;
+}
+
+.left-cart{
+    width:62.5%;
+}
+
+.right-cart{
+    width:31.25%;
+}
+
+.image-section{
+    flex-basis: 30%;
+}
+
+.cart-right{
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    text-align: left;
+    border-radius: 0;
+    overflow-anchor: none;
+}
+
+.cart-right::after{
+    height: 1.25rem;
+    width: 1.25rem;
+    margin-left: auto;
+    content: "";
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_arrow-right.svg/1200px-Antu_arrow-right.svg.png);
+    background-repeat: no-repeat;
+    background-size: 1.25rem;
+}
+
+.more-product:hover{
+    opacity: 0.6;
+}
