@@ -203,14 +203,14 @@
                 <span class="fw-bold fs-6">MÀU SẮC: 00 WHITE</span>
                 <div class="product-color_list">
                     <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/422992/chip/goods_02_422992_chip.jpg" alt=""></div>
-                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/422992/chip/goods_02_422992_chip.jpg" alt=""></div>
-                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/422992/chip/goods_02_422992_chip.jpg" alt=""></div>
-                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/422992/chip/goods_02_422992_chip.jpg" alt=""></div>
-                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/422992/chip/goods_02_422992_chip.jpg" alt=""></div>
-                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/422992/chip/goods_02_422992_chip.jpg" alt=""></div>
-                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/422992/chip/goods_02_422992_chip.jpg" alt=""></div>
-                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/422992/chip/goods_02_422992_chip.jpg" alt=""></div>
-                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/422992/chip/goods_02_422992_chip.jpg" alt=""></div>
+                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461914/chip/goods_00_461914_chip.jpg" alt=""></div>
+                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461914/chip/goods_09_461914_chip.jpg" alt=""></div>
+                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461914/chip/goods_32_461914_chip.jpg" alt=""></div>
+                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461914/chip/goods_36_461914_chip.jpg" alt=""></div>
+                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461914/chip/goods_67_461914_chip.jpg" alt=""></div>
+                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/455359/chip/goods_07_455359_chip.jpg" alt=""></div>
+                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/455359/chip/goods_11_455359_chip.jpg" alt=""></div>
+                    <div class="product-color_img"><img style="width:100%;" src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/455359/chip/goods_23_455359_chip.jpg" alt=""></div>
                 </div>
             </div>
 
@@ -336,20 +336,44 @@
                     </div>
                 </div>
             </div>
-            <div class="swiper-slide">Slide 2</div>
+            <div class="swiper-slide">
+                <div class="card card-content" >
+                    <img src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/442224/item/goods_38_442224.jpg"  alt="product-img">
+                    <div class="m-2 ">
+                        <div class="d-inline"><img src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/424873/chip/goods_08_424873_chip.jpg" style="width: 8%;" alt="">
+                        </div>
+                        <div class="d-flex justify-content-between my-1 ">
+                            <span class="text-secondary fw-bold">NỮ</span>
+                            <span class="text-secondary fw-bold">XS-XXL</span>
+                        </div>
+                        <span class="text-dark fw-bold fs-6 mb-4">Thắt Lưng Bản Rộng</span>
+                        <div class="text-secondary">NEW</div>
+                        <div class="old-price">784000 VNĐ</div>
+                        <div class="sale-price">688000 VNĐ</div>
+                        <div class="product-rate">
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-half text-warning"></i>
+                            <span class="ms-2">(999+)</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="swiper-slide"><div class="card card-content" >
-                <img src="https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/424873/item/vngoods_69_424873.jpg?width=750"  alt="product-img">
+                <img src="https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/458183/item/vngoods_03_458183.jpg"  alt="product-img">
                 <div class="m-2 ">
                     <div class="d-inline"><img src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/424873/chip/goods_08_424873_chip.jpg" style="width: 8%;" alt="">
                     </div>
                     <div class="d-flex justify-content-between my-1 ">
-                        <span class="text-secondary fw-bold">NỮ</span>
+                        <span class="text-secondary fw-bold">NAM</span>
                         <span class="text-secondary fw-bold">XS-XXL</span>
                     </div>
-                    <span class="text-dark fw-bold fs-6 mb-4">U Áo Thun Cổ Tròn Ngắn Tay</span>
+                    <span class="text-dark fw-bold fs-6 mb-4">Áo Khoác Giả Lông Cừu</span>
                     <div class="text-secondary">NEW</div>
-                    <div class="old-price">299000 VNĐ</div>
-                    <div class="sale-price">244000 VNĐ</div>
+                    <div class="old-price">799000 VNĐ</div>
+                    <div class="sale-price">544000 VNĐ</div>
                     <div class="product-rate">
                         <i class="bi bi-star-fill text-warning"></i>
                         <i class="bi bi-star-fill text-warning"></i>
@@ -361,20 +385,44 @@
                 </div>
             </div>
             </div>
-            <div class="swiper-slide">Slide 4</div>
+            <div class="swiper-slide">
+                <div class="card card-content" >
+                    <img src="https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/450195/item/vngoods_69_450195.jpg"  alt="product-img">
+                    <div class="m-2 ">
+                        <div class="d-inline"><img src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/424873/chip/goods_08_424873_chip.jpg" style="width: 8%;" alt="">
+                        </div>
+                        <div class="d-flex justify-content-between my-1 ">
+                            <span class="text-secondary fw-bold">NAM</span>
+                            <span class="text-secondary fw-bold">XS-XXL</span>
+                        </div>
+                        <span class="text-dark fw-bold fs-6 mb-4">AirSense Áo Khoác (Siêu Nhẹ)</span>
+                        <div class="text-secondary">NEW</div>
+                        <div class="old-price">252000 VNĐ</div>
+                        <div class="sale-price">199000 VNĐ</div>
+                        <div class="product-rate">
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-half text-warning"></i>
+                            <span class="ms-2">(999+)</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="swiper-slide"><div class="card card-content" >
-                <img src="https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/424873/item/vngoods_69_424873.jpg?width=750"  alt="product-img">
+                <img src="https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/450535001/item/vngoods_32_450535001.jpg?width=320"  alt="product-img">
                 <div class="m-2 ">
                     <div class="d-inline"><img src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/424873/chip/goods_08_424873_chip.jpg" style="width: 8%;" alt="">
                     </div>
                     <div class="d-flex justify-content-between my-1 ">
-                        <span class="text-secondary fw-bold">NỮ</span>
+                        <span class="text-secondary fw-bold">NAM</span>
                         <span class="text-secondary fw-bold">XS-XXL</span>
                     </div>
-                    <span class="text-dark fw-bold fs-6 mb-4">U Áo Thun Cổ Tròn Ngắn Tay</span>
+                    <span class="text-dark fw-bold fs-6 mb-4">Áo Len Extra Fine Merino Cổ Dài</span>
                     <div class="text-secondary">NEW</div>
-                    <div class="old-price">299000 VNĐ</div>
-                    <div class="sale-price">244000 VNĐ</div>
+                    <div class="old-price">399000 VNĐ</div>
+                    <div class="sale-price">344000 VNĐ</div>
                     <div class="product-rate">
                         <i class="bi bi-star-fill text-warning"></i>
                         <i class="bi bi-star-fill text-warning"></i>
@@ -386,7 +434,31 @@
                 </div>
             </div>
             </div>
-            <div class="swiper-slide">Slide 6</div>
+            <div class="swiper-slide">
+                <div class="card card-content" >
+                    <img src="https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/456779/item/vngoods_06_456779.jpg"  alt="product-img">
+                    <div class="m-2 ">
+                        <div class="d-inline"><img src="https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/424873/chip/goods_08_424873_chip.jpg" style="width: 8%;" alt="">
+                        </div>
+                        <div class="d-flex justify-content-between my-1 ">
+                            <span class="text-secondary fw-bold">NAM</span>
+                            <span class="text-secondary fw-bold">XS-XXL</span>
+                        </div>
+                        <span class="text-dark fw-bold fs-6 mb-4">Áo Polo Dry-EX</span>
+                        <div class="text-secondary">NEW</div>
+                        <div class="old-price">489000 VNĐ</div>
+                        <div class="sale-price">391000 VNĐ</div>
+                        <div class="product-rate">
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-half text-warning"></i>
+                            <span class="ms-2">(999+)</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="swiper-button-prev"></div>
         <div class="swiper-button-next"></div>

@@ -1,10 +1,13 @@
 package com.example.demo.controller;
 
+import com.example.demo.dao.ParentCategoryDao;
 import com.example.demo.dao.UserDao;
+import com.example.demo.model.ParentCategory;
 import com.example.demo.model.Users;
 
 import java.io.*;
 import java.sql.Date;
+import java.util.List;
 import java.util.Random;
 
 
@@ -20,6 +23,9 @@ public class SignUp extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        ParentCategoryDao parentCategoryDao = new ParentCategoryDao();
+        List<ParentCategory> listParentCategory = parentCategoryDao.selectAll();
+        request.setAttribute("listParentCategory", listParentCategory);
         String email = request.getParameter("InputEmail");
         String password = request.getParameter("InputPassword");
         String genderOption = request.getParameter("inlineRadioOptions");

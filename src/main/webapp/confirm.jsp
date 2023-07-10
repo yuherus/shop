@@ -29,8 +29,8 @@
         <span class="fs-2">TẠO MỘT TÀI KHOẢN</span>
       </div>
       <div class="form-content p-3 border border-light-subtle">
-        <span class="fs-3 pb">XEM LẠI</span>
-        <span class="fs-4 ">ĐỊA CHỈ EMAIL</span>
+        <span class="fs-3 pb-5">XEM LẠI</span>
+        <span class="fs-4 mt-1"><br>ĐỊA CHỈ EMAIL</span>
         <p class="my-4">tuanhuy03ns@gmail.com</p>
         <p class="mb-5">Vui lòng kiểm tra lại các thông tin vừa nhập. Xác nhận địa chỉ email là điều kiện bắt buộc để hoàn thành đăng ký tại khoản. Vui lòng nhập mã xác nhận được gửi đến email vừa cung cáp của quý khách ở trang tiếp theo.</p>
         <p class="text-danger mb-5">Vui lòng kiểm tra chắc chắn rằng quý khách có thể nhận email đến từ địa chỉ "noreply-enews@mail.vn.uniqlo.com".</p>

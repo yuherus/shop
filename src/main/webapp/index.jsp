@@ -60,12 +60,126 @@
                 <div class="swiper-button-prev"></div>
             </div>
         </div>
-        <div class="swiper-slide"><img src="./asset/img/slide9.jpg" alt="im9"></div>
-        <div class="swiper-slide"><img src="./asset/img/slide13.jpg" alt="img13"></div>
-        <div class="swiper-slide"><img src="./asset/img/slide17.jpg" alt="img17"></div>
-        <div class="swiper-slide"><img src="./asset/img/slide21.jpg" alt="img21"></div>
-        <div class="swiper-slide"><img src="./asset/img/slide25.jpg" alt="img25"></div>
-        <div class="swiper-slide"><img src="./asset/img/slide29.jpg" alt="img29"></div>
+        <div class="swiper-slide">
+            <div class="swiper2 mySwiper2 swiper-h">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="./asset/img/slide9.jpg" alt="im9">
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 2
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 3
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 4
+                    </div>
+                </div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="swiper2 mySwiper2 swiper-h">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="./asset/img/slide13.jpg" alt="im13">
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 2
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 3
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 4
+                    </div>
+                </div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="swiper2 mySwiper2 swiper-h">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="./asset/img/slide17.jpg" alt="im17">
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 2
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 3
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 4
+                    </div>
+                </div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="swiper2 mySwiper2 swiper-h">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="./asset/img/slide21.jpg" alt="im21">
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 2
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 3
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 4
+                    </div>
+                </div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="swiper2 mySwiper2 swiper-h">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="./asset/img/slide25.jpg" alt="im25">
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 2
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 3
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 4
+                    </div>
+                </div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="swiper2 mySwiper2 swiper-h">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="./asset/img/slide29.jpg" alt="im29">
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 2
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 3
+                    </div>
+                    <div class="swiper-slide">
+                        Slide 4
+                    </div>
+                </div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </div>
     </div>
     <div class="swiper-pagination"></div>
 </div>
@@ -89,46 +203,46 @@
         <div class="swiper mySwiper3">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <div class="card mb-3">
+                    <div class="card mb-3" style="height: 528px;">
                         <img src="./asset/img/card1.jpg" class="card-img-top" alt="card1">
                         <div class="card-body">
-                            <h5 class="card-title">COUPON CHO ĐƠN HÀNG ĐẦU TIÊN</h5>
+                            <h5 class="card-title fw-bold">COUPON CHO ĐƠN HÀNG ĐẦU TIÊN</h5>
                             <p class="card-text">Tải ứng dụng UNIQLO ngay và tận hưởng 150.000VNĐ cho đơn hàng đầu tiên trên app.</p>
                         </div>
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <div class="card mb-3">
-                        <img src="./asset/img/card1.jpg" class="card-img-top" alt="card1">
+                    <div class="card mb-3" style="height: 528px;">
+                        <img src="https://im.uniqlo.com/global-cms/spa/resed898e1b081299f373b5554f69616d5cfr.jpg" class="card-img-top" alt="card1">
                         <div class="card-body">
-                            <h5 class="card-title">COUPON CHO ĐƠN HÀNG ĐẦU TIÊN</h5>
-                            <p class="card-text">Tải ứng dụng UNIQLO ngay và tận hưởng 150.000VNĐ cho đơn hàng đầu tiên trên app.</p>
+                            <h5 class="card-title fw-bold">CLICK & COLLECT</h5>
+                            <p class="card-text">Mua sắm trực tuyến bất cứ khi nào và nhận đơn hàng của bạn dễ dàng tại cửa hàng UNIQLO, hoàn toàn miễn phí giao hàng.</p>
                         </div>
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <div class="card mb-3">
-                        <img src="./asset/img/card1.jpg" class="card-img-top" alt="card1">
+                    <div class="card mb-3" style="height: 528px;">
+                        <img src="https://im.uniqlo.com/global-cms/spa/res4bff902ee6d9b8a5849f94d1faffb3dafr.jpg" class="card-img-top" alt="card1">
                         <div class="card-body">
-                            <h5 class="card-title">COUPON CHO ĐƠN HÀNG ĐẦU TIÊN</h5>
-                            <p class="card-text">Tải ứng dụng UNIQLO ngay và tận hưởng 150.000VNĐ cho đơn hàng đầu tiên trên app.</p>
+                            <h5 class="card-title fw-bold">EXTRA SIZES TỪ XS-XXL</h5>
+                            <p class="card-text">Bạn có thể tìm thấy thêm nhiều kích cỡ extra size từ XS - XXL tại cửa hàng trực tuyến.</p>
                         </div>
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <div class="card mb-3">
-                        <img src="./asset/img/card1.jpg" class="card-img-top" alt="card1">
+                    <div class="card mb-3" style="height: 528px;">
+                        <img src="https://im.uniqlo.com/global-cms/spa/resdbb3957debbb4f6c2c03f8ce6107cdd1fr.jpg" class="card-img-top" alt="card1">
                         <div class="card-body">
-                            <h5 class="card-title">COUPON CHO ĐƠN HÀNG ĐẦU TIÊN</h5>
-                            <p class="card-text">Tải ứng dụng UNIQLO ngay và tận hưởng 150.000VNĐ cho đơn hàng đầu tiên trên app.</p>
+                            <h5 class="card-title fw-bold">ORDER TO ME</h5>
+                            <p class="card-text">Dịch vụ tại cửa hàng này cho phép bạn mua sắm tất cả các sản phẩm có sẵn trên cửa hàng trực tuyến (UNIQLO Online), ngay cả khi sản phẩm không có sẵn tại cửa hàng.</p>
                         </div>
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <div class="card mb-3">
+                    <div class="card mb-3" style="height: 528px;">
                         <img src="./asset/img/card1.jpg" class="card-img-top" alt="card1">
                         <div class="card-body">
-                            <h5 class="card-title">COUPON CHO ĐƠN HÀNG ĐẦU TIÊN</h5>
+                            <h5 class="card-title fw-bold">COUPON CHO ĐƠN HÀNG ĐẦU TIÊN</h5>
                             <p class="card-text">Tải ứng dụng UNIQLO ngay và tận hưởng 150.000VNĐ cho đơn hàng đầu tiên trên app.</p>
                         </div>
                     </div>
