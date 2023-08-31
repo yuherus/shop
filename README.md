@@ -1,5 +1,5 @@
 # Fashion website :necktie:
-### Deploy
+### Deploy the project in local
  - Server: Tomcat 9.0.76
  - Config:
     hibernate.cfg.xml
